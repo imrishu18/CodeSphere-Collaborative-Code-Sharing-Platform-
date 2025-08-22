@@ -1,5 +1,10 @@
 # 🚀 CodeSphere – Real-time Collaborative Coding Platform
 
+## 🎥 Demo
+👉 [Click here to watch full demo video](https://drive.google.com/file/d/1ahfCIIjQUMeadIfhpSR6IXyJv5glROiG/view?usp=drivesdk)
+
+---
+
 **CodeSphere** is a real-time collaborative coding platform enabling developers to **code, chat, and collaborate seamlessly**.  
 Teams can work together with **live-synced editors, multi-language support, project folders, version tracking, chat, and secure rooms**.  
 The platform demonstrates **database CRUD operations, role based access, input validation, error handling, and a modern responsive UI**.  
